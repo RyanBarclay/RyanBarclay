@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⚒️ Full Stack Developer  <br>📚 Learning Distributed Systems using GO<br>🎲 Fun fact: First programming I learned was AVR Assembly</p>
+<p align="left">⚒️ Full Stack Developer  <br>📚 Learning Distributed Systems using GO<br>🎲 Fun fact: First programming language I learned was AVR Assembly</p>
 
 ###
 
